@@ -1,0 +1,3 @@
+1，用BmpCvt软件转换颜色（Image->Convert to->16bit Color 565）.
+2, 用BmpCvt软件转换尺寸（Image->Scale）
+3, 用BmpCvt软件另存为bmp文件

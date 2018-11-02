@@ -1,0 +1,1 @@
+将 xxx.otf 字库文件复制到系统路径C:/windows/fonts文件夹即可

@@ -1,0 +1,4 @@
+1，原始图片为res2(0).bmp
+2，用BmpCvt软件转换颜色（Image->Convert to->16bit Color 565）.
+3, 用BmpCvt软件转换尺寸（Image->Scale）
+4, 用BmpCvt软件转换为565的c文件(res2.c)
